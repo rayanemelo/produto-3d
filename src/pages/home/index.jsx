@@ -1,10 +1,13 @@
 import React from 'react';
+import { Box, Heading, Text } from '@chakra-ui/react';
 
 const Home = () => {
   return (
-    <div>
-      <p>Lorem ipsum dolor sit amet, consectetur adip</p>
-    </div>
+    <Box>
+      <Heading>Home</Heading>
+      <Text>Lorem ipsum dolor sit amet. Aut internos fugit quo adipisci dolore non dolorem porro sit enim obcaecati nam internos sunt. Cum aliquid dolores ea ipsa illum ut incidunt culpa cum quia assumenda. Quo nulla rerum sed autem rerum qui asperiores facilis aut doloribus voluptatem aut consequatur consequuntur! Qui magnam voluptate et corrupti officiis sed asperiores quia aut animi nulla et fugiat sunt eos perspiciatis consequuntur est iure nulla. Et veritatis enim et fuga voluptas At inventore libero. Vel aspernatur eius aut Quis velit ut consequatur quis id nulla voluptas est quam autem. Et  velit et voluptatem aperiam ut nulla ipsa. Excepturi  non Quis quas non alias sunt. Ut accusantium atque est pariatur fugiat ea error amet aut perferendis velit quo explicabo nemo. Est natus officiis eum  veniam  omnis asperiores? 33 harum incidunt in culpa sequi ab fugiat adipisci sit exercitationem sunt ut quisquam perspiciatis  maiores illum non consequatur sunt. Aut autem magnam ea reiciendis necessitatibus 33 galisum galisum 33 labore nihil et earum dolorem? Quo facere nihil ut explicabo laborum sed cumque perferendis qui voluptas odit id voluptatem perferendis. In galisum provident aut rerum excepturi ex necessitatibus dicta sit deserunt quis sit facilis corporis est esse facere qui totam quia. Non similique cupiditate sit fugiat quibusdam qui aliquam cumque. Est totam temporibus aut odio aliquid eum quas provident. Eos fugiat assumenda  voluptatibus libero et dolorum dolore. Cum dignissimos libero 33 quisquam voluptas vel autem quisquam aut voluptatum enim. Sed maxime molestiae aut accusamus maiores non suscipit temporibus aut officiis perferendis. Non consequatur blanditiis qui delectus inventore id dicta iure qui commodi quos qui consequatur eius. Et dolorem nihil et expedita soluta sed quia exercitationem est quia velit non architecto voluptas id nostrum repellat. Qui natus Quis est quisquam voluptatibus et incidunt natus ea amet rerum sit odio laboriosam qui iure. Aut porro labore et eligendi dolores ut nobis itaque id incidunt eligendi. Quo saepe error qui mollitia Quis aut magnam suscipit ut nemo fuga aut earum voluptate sit laudantium quia in dolor cupiditate. Ut quasi nihil sed autem sunt sit debitis laboriosam. Et blanditiis voluptatum ut delectus suscipit cum optio voluptatem et voluptatem neque sit sint quae aut officia fuga est perspiciatis dolor! 33 repudiandae aliquam et labore delectus aut animi tempore. Et voluptatem ullam eum maxime voluptatem eum alias autem hic quia aspernatur non iste totam eos quia modi. Aut sequi similique aut earum odit et  architecto et quidem similique sed iure dicta? Culpa neque 33 illum rerum et voluptates dolorem qui omnis! Eum consequatur omnis aut voluptates maiores qui consequuntur excepturi At possimus omnis nam minima mollitia cum molestiae nostrum ab reprehenderit eveniet. Eum pariatur voluptas ea repellat obcaecati ut consequatur odit sit ullam ipsam in quod minus qui labore quam! Quo iure explicabo id ipsum dolor non excepturi illum sit dolorum voluptas non reprehenderit repellat. 
+</Text>
+    </Box>
   );
 };
 
